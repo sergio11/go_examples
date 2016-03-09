@@ -1,4 +1,3 @@
-Línea número 1
-Línea número 2
+HOLA SOY SERGIOEsto es una cadena2
 Línea número 3
-Línea número 4
+Línea número 4Hola Mundo!!!
